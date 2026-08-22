@@ -1,5 +1,3 @@
-package sahil;
-
 import java.util.Scanner;
 
 public class SumOfDigits {
